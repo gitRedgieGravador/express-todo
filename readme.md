@@ -2,7 +2,7 @@
 
 ### go to the directory
 ```
-cd to expresjs folder
+cd express-todo/
 ```
 ### install dependencies
 ```
